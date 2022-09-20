@@ -29,11 +29,17 @@ article , aside {
 #direita {
   width: 30%;
   display: inline-block;
+  padding: 10px;
+  border-left: 5px;
+  display: inline-block;
 }
 
 #esquerda {
-  width: 66%;
-  padding: 5px;
+  width: 56%;
+  height: 600%;
+  padding: 50px;
   border-right: 5px;
   display: inline-block;
+  margin: 10px;
+  border: 10px;
 }
