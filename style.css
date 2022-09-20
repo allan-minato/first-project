@@ -14,10 +14,11 @@ body {
 }
 
 .table {
- width: 100%
+  width: 100%;
 }
 
 #rodape {
- width: 200px;
- background-color: aquamarine;
+  width: 200px;
+  background-color: aquamarine;
 }
+
